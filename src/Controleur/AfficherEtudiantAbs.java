@@ -21,6 +21,8 @@ import Model.Imétier;
  * Servlet implementation class AfficherEtudiantAbs
  */
 @WebServlet("/profile/view/AfficherEtudiantAbs")
+
+//on a modifier le code
 public class AfficherEtudiantAbs extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
